@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosa\\source\\repos\\TikTakToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3DC0B7-143E-44D3-855C-BDAF3ECE74B6}|TikTakToe\\TikTakToe.vcxproj|C:\\Users\\kosa\\source\\repos\\TikTakToe\\TikTakToe\\tiktaktoe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F3DC0B7-143E-44D3-855C-BDAF3ECE74B6}|TikTakToe\\TikTakToe.vcxproj|solutionrelative:TikTakToe\\tiktaktoe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tiktaktoe.c",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\TikTakToe\\TikTakToe\\tiktaktoe.c",
+              "RelativeDocumentMoniker": "TikTakToe\\tiktaktoe.c",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\TikTakToe\\TikTakToe\\tiktaktoe.c",
+              "RelativeToolTip": "TikTakToe\\tiktaktoe.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-24T04:33:23.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

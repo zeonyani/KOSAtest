@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosa\\source\\repos\\WindowsProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A34766E-47B3-43FF-9FB5-3603F4F94D57}|WindowsProject1\\WindowsProject1.vcxproj|C:\\Users\\kosa\\source\\repos\\WindowsProject1\\WindowsProject1\\Hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A34766E-47B3-43FF-9FB5-3603F4F94D57}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\Hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A34766E-47B3-43FF-9FB5-3603F4F94D57}|WindowsProject1\\WindowsProject1.vcxproj|C:\\Users\\kosa\\source\\repos\\WindowsProject1\\WindowsProject1\\Hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A34766E-47B3-43FF-9FB5-3603F4F94D57}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\Hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A34766E-47B3-43FF-9FB5-3603F4F94D57}|WindowsProject1\\WindowsProject1.vcxproj|C:\\Users\\kosa\\source\\repos\\WindowsProject1\\WindowsProject1\\WindowsProject1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A34766E-47B3-43FF-9FB5-3603F4F94D57}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\WindowsProject1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hello.c",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\WindowsProject1\\WindowsProject1\\Hello.c",
+              "RelativeDocumentMoniker": "WindowsProject1\\Hello.c",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\WindowsProject1\\WindowsProject1\\Hello.c",
+              "RelativeToolTip": "WindowsProject1\\Hello.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-23T05:10:37.865Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hello.cpp",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\WindowsProject1\\WindowsProject1\\Hello.cpp",
+              "RelativeDocumentMoniker": "WindowsProject1\\Hello.cpp",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\WindowsProject1\\WindowsProject1\\Hello.cpp",
+              "RelativeToolTip": "WindowsProject1\\Hello.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T05:15:04.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowsProject1.cpp",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\WindowsProject1\\WindowsProject1\\WindowsProject1.cpp",
+              "RelativeDocumentMoniker": "WindowsProject1\\WindowsProject1.cpp",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\WindowsProject1\\WindowsProject1\\WindowsProject1.cpp",
+              "RelativeToolTip": "WindowsProject1\\WindowsProject1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T05:08:42.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

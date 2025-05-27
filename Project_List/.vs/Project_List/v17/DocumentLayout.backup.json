@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosa\\source\\repos\\Project_List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8341029-7530-4B7E-85A4-0F367AD67BD3}|Project_List\\Project_List.vcxproj|C:\\Users\\kosa\\source\\repos\\Project_List\\Project_List\\example.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8341029-7530-4B7E-85A4-0F367AD67BD3}|Project_List\\Project_List.vcxproj|solutionrelative:Project_List\\example.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8341029-7530-4B7E-85A4-0F367AD67BD3}|Project_List\\Project_List.vcxproj|C:\\Users\\kosa\\source\\repos\\Project_List\\Project_List\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8341029-7530-4B7E-85A4-0F367AD67BD3}|Project_List\\Project_List.vcxproj|solutionrelative:Project_List\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8341029-7530-4B7E-85A4-0F367AD67BD3}|Project_List\\Project_List.vcxproj|C:\\Users\\kosa\\source\\repos\\Project_List\\Project_List\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8341029-7530-4B7E-85A4-0F367AD67BD3}|Project_List\\Project_List.vcxproj|solutionrelative:Project_List\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project_List\\Project_List\\LinkedList.h",
+              "RelativeDocumentMoniker": "Project_List\\LinkedList.h",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project_List\\Project_List\\LinkedList.h",
+              "RelativeToolTip": "Project_List\\LinkedList.h",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T12:51:07.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project_List\\Project_List\\Member.h",
+              "RelativeDocumentMoniker": "Project_List\\Member.h",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project_List\\Project_List\\Member.h",
+              "RelativeToolTip": "Project_List\\Member.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T12:13:12.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "example.c",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project_List\\Project_List\\example.c",
+              "RelativeDocumentMoniker": "Project_List\\example.c",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project_List\\Project_List\\example.c",
+              "RelativeToolTip": "Project_List\\example.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-13T12:09:47.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

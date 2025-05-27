@@ -1,0 +1,8 @@
+﻿  example.c
+C:\Users\kosa\source\repos\Project_List\Project_List\LinkedList.h(42,10): warning C4090: '=': 다른 'const' 한정자
+  (소스 파일 'example.c'을(를) 컴파일하는 중)
+  
+C:\Users\kosa\source\repos\Project_List\Project_List\LinkedList.h(134,33): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+  (소스 파일 'example.c'을(를) 컴파일하는 중)
+  
+  Project_List.vcxproj -> C:\Users\kosa\source\repos\Project_List\x64\Debug\Project_List.exe

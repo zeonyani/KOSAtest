@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosa\\source\\repos\\Project250424\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1A5FEF-E872-4D1D-AA43-22C04FE95ED1}|Project250424\\Project250424.vcxproj|C:\\Users\\kosa\\source\\repos\\Project250424\\Project250424\\example250424.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C1A5FEF-E872-4D1D-AA43-22C04FE95ED1}|Project250424\\Project250424.vcxproj|solutionrelative:Project250424\\example250424.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "example250424.c",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project250424\\Project250424\\example250424.c",
+              "RelativeDocumentMoniker": "Project250424\\example250424.c",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project250424\\Project250424\\example250424.c",
+              "RelativeToolTip": "Project250424\\example250424.c",
+              "ViewState": "AgIAABMBAAAAAAAAAAAqwN0BAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-23T23:41:24.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

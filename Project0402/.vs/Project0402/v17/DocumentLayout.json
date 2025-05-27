@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosa\\source\\repos\\Project0402\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F68A19-00B8-4532-A09D-824078A94099}|Project0402\\Project0402.vcxproj|C:\\Users\\kosa\\source\\repos\\Project0402\\Project0402\\IntStack2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2F68A19-00B8-4532-A09D-824078A94099}|Project0402\\Project0402.vcxproj|solutionrelative:Project0402\\IntStack2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F68A19-00B8-4532-A09D-824078A94099}|Project0402\\Project0402.vcxproj|C:\\Users\\kosa\\source\\repos\\Project0402\\Project0402\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2F68A19-00B8-4532-A09D-824078A94099}|Project0402\\Project0402.vcxproj|solutionrelative:Project0402\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntStack2.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project0402\\Project0402\\IntStack2.h",
+              "RelativeDocumentMoniker": "Project0402\\IntStack2.h",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project0402\\Project0402\\IntStack2.h",
+              "RelativeToolTip": "Project0402\\IntStack2.h",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-12T01:56:56.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main2.c",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project0402\\Project0402\\main2.c",
+              "RelativeDocumentMoniker": "Project0402\\main2.c",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project0402\\Project0402\\main2.c",
+              "RelativeToolTip": "Project0402\\main2.c",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-12T01:56:18.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

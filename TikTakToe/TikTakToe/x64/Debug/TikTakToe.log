@@ -1,0 +1,3 @@
+﻿  tiktaktoe.c
+C:\Users\kosa\source\repos\TikTakToe\TikTakToe\tiktaktoe.c(8,14): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  TikTakToe.vcxproj -> C:\Users\kosa\source\repos\TikTakToe\x64\Debug\TikTakToe.exe

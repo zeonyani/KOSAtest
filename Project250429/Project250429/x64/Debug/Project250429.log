@@ -1,0 +1,6 @@
+﻿  example250429.c
+C:\Users\kosa\source\repos\Project250429\Project250429\example250429.c(548,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+      C:\Users\kosa\source\repos\Project250429\Project250429\example250429.c(548,8):
+      서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+  
+  Project250429.vcxproj -> C:\Users\kosa\source\repos\Project250429\x64\Debug\Project250429.exe

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosa\\source\\repos\\Project250502\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\example250502.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|solutionrelative:Project250502\\example250502.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\roundArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|solutionrelative:Project250502\\roundArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\basicArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|solutionrelative:Project250502\\basicArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\roundArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|solutionrelative:Project250502\\roundArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\basicArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|solutionrelative:Project250502\\basicArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\areaArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|solutionrelative:Project250502\\areaArith.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\areaArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{707E7DA8-2D9B-4279-84FF-3791FDB3EE18}|Project250502\\Project250502.vcxproj|solutionrelative:Project250502\\areaArith.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "roundArith.c",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\roundArith.c",
+              "RelativeDocumentMoniker": "Project250502\\roundArith.c",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\roundArith.c",
+              "RelativeToolTip": "Project250502\\roundArith.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-02T08:32:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "basicArith.c",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\basicArith.c",
+              "RelativeDocumentMoniker": "Project250502\\basicArith.c",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\basicArith.c",
+              "RelativeToolTip": "Project250502\\basicArith.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-02T08:31:38.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "areaArith.c",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\areaArith.c",
+              "RelativeDocumentMoniker": "Project250502\\areaArith.c",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\areaArith.c",
+              "RelativeToolTip": "Project250502\\areaArith.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-02T08:31:15.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "roundArith.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\roundArith.h",
+              "RelativeDocumentMoniker": "Project250502\\roundArith.h",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\roundArith.h",
+              "RelativeToolTip": "Project250502\\roundArith.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T08:30:15.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "areaArith.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\areaArith.h",
+              "RelativeDocumentMoniker": "Project250502\\areaArith.h",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\areaArith.h",
+              "RelativeToolTip": "Project250502\\areaArith.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T08:27:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "basicArith.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\basicArith.h",
+              "RelativeDocumentMoniker": "Project250502\\basicArith.h",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\basicArith.h",
+              "RelativeToolTip": "Project250502\\basicArith.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T08:25:18.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "example250502.c",
+              "DocumentMoniker": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\example250502.c",
+              "RelativeDocumentMoniker": "Project250502\\example250502.c",
+              "ToolTip": "C:\\Users\\kosa\\source\\repos\\Project250502\\Project250502\\example250502.c",
+              "RelativeToolTip": "Project250502\\example250502.c",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAkwK8BAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T23:52:37.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
